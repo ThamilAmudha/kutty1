@@ -1,4 +1,4 @@
-a=int(input())
-n=list(map(int,input().split()))
-n.sort()
-print(*n)
+a4=int(input())
+n4=list(map(int,input().split()))
+n4.sort()
+print(*n4)
